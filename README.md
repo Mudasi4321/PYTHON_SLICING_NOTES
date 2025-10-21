@@ -1,7 +1,5 @@
 # PYTHON_SLICING_NOTES
 For revising during exams 
-# Python List Slicing Notes
-
 List slicing is a fundamental technique for extracting a portion of a list by specifying optional start, stop, and step indices.
 
 **General Syntax:** `list[start:stop:step]`
